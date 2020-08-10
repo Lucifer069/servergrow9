@@ -84,7 +84,7 @@ client.on("error", (error) => {
   channel.send(`<@326758437642043393>\nWe found a misterious error: \`\`\`${error.message}\`\`\``) 
 })
 
-client.login(botconfig.token)
+client.login(botconfig.NzQyMjM5Mzg4NTUzMTgzMjkw.XzDOTA.EobVMRo8n5deVz-wsW7XpeUNoTI)
 /*
 client.on('message',msg =>{
   if(msg.content === '+moddelete'){
